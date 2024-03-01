@@ -8,7 +8,7 @@
 ## application description: 
    รายละเอียดโครงงาน
  # presentation: 
-    linkh ttps://drive.google.com/file/d/17wWZJppuIIkzo5ivzLSbeXt26WHoy0gO/view?usp=sharing
+    linkh https://drive.google.com/file/d/17wWZJppuIIkzo5ivzLSbeXt26WHoy0gO/view?usp=sharing
 ## video:  
    [public/ubu]
  xoxoxo
