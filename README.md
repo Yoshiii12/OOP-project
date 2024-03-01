@@ -8,7 +8,7 @@
 ## application description: 
    รายละเอียดโครงงาน
 ## presentation: 
-   [slide/canva/etc..] link [public/ubu]
+    link(https://drive.google.com/file/d/17wWZJppuIIkzo5ivzLSbeXt26WHoy0gO/view?usp=sharing)
 ## video: link 
    [public/ubu]
  xoxoxo
