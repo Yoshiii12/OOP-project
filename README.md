@@ -7,7 +7,7 @@
    [pygame/streamlit]
 ## application description: 
    รายละเอียดโครงงาน
- presentation: 
+ # presentation: 
     linkh ttps://drive.google.com/file/d/17wWZJppuIIkzo5ivzLSbeXt26WHoy0gO/view?usp=sharing
 ## video:  
    [public/ubu]
